@@ -1,0 +1,43 @@
+.informatuion {
+position: absolute;
+height: 84px;
+left: 0%;
+right: 2.36%;
+top: 1.36px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+/* or 140% */
+
+
+color: #178d74;
+}
+
+.Fashion{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 58px;
+line-height: 128px;
+text-align: center;
+text-transform: uppercase;
+color: #111010;
+}
+
+.Introducing{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 200;
+font-size: 18px;
+/* line-height: 128px; */
+text-align: center;
+text-transform: uppercase;
+color: #111010;
+}
+
+.Vogue-text{
+    margin: 50px;
+}

@@ -1,0 +1,18 @@
+.latest-articles {
+
+/* width: 532px;
+height: 98px; */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 58px;
+line-height: 128px;
+text-align: center;
+text-transform: uppercase;
+color: #111010;
+}
+
+.jounal-images{
+    display: flex;
+    justify-content: space-around;
+}

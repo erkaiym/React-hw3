@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Roboto:wght@500&display=swap');
+
+.menu-link {
+height: 24px;
+left: 38.81%;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-transform: uppercase;
+color: #111010;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-around;
+}
+
+.Products{
+
+height: 106px;
+left: 0%;
+right: 23.16%;
+top: -9.59px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 106px;
+/* identical to box height, or 110% */
+
+text-transform: uppercase;
+
+color: #772a2a;
+}
+
+.Story{
+height: 106px;
+top: 95.41px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 106px;
+text-transform: uppercase;
+color: #9d5858;
+
+}
+
+.text-main{
+    text-align: center;
+}
